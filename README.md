@@ -9,8 +9,3 @@
 
 **Note:** Includes Machine Learning assignments and projects given by GlobalAIHub.
 
-## Project Name
-Description...
-
-## Requirements
-Some python libraries
